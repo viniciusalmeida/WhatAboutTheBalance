@@ -26,6 +26,7 @@ node index.js --help
 
     -y, --year [year]             Indicate an year to aply the filter (default: current year)
     -m, --month [month-for-memo]  Select a month in the year to be detailed with the memo for each transaction. Ex: Oct
+    -r, --repl                    Start a Read-Eval-Print-Loop (REPL) to you write your own analysis code
     -h, --help                    output usage information
 ```
 
